@@ -1,0 +1,680 @@
+body {
+    direction: rtl;
+    text-align: right;
+}
+.ml-50 {
+    margin-right: 50px;
+    margin-left: unset;
+}
+.ml-20 {
+    margin-right: 20px;
+    margin-left: unset;
+}
+.top-header .social-icon ul li {
+    margin-right: 16px;
+    margin-left: unset;
+}
+.top-header .header-left ul li {
+    margin-left: 40px;
+    margin-right: unset;
+}
+.top-header .header-left ul li::before {
+    right: -23px;
+    left: auto;
+}
+.top-header .header-left ul li i {
+    margin-left: 5px;
+    margin-right: unset;
+}
+.top-header .social-icon {
+    float: left;
+}
+.navbar-brand {
+    margin-right: 0;
+}
+.navbar-area .main-nav .navbar .navbar-nav {
+    margin-right: auto;
+    margin-left: 0;
+}
+.navbar-area .main-nav .navbar .navbar-nav .nav-item .dropdown-menu {
+    right: 0;
+    left: auto;
+    text-align: right;
+}
+.main-nav nav .navbar-nav .nav-item .dropdown-menu li a::before {
+    right: 0;
+    left: auto;
+}
+
+.main-nav nav .navbar-nav .nav-item a.active i {
+    transform: rotate(-90deg);
+}
+  
+.main-nav nav .navbar-nav .nav-item a:hover i {
+    transform: rotate(-90deg);
+    transition: 0.7s;
+}
+  
+.main-nav nav .navbar-nav .nav-item a .active::before {
+    transform: scale(1);
+}
+.sidebar-modal .modal.right .modal-header .close {
+    right: auto;
+    left: 0;
+}
+.other-side .search-area {
+    float: right;
+    position: relative;
+    top: 0;
+    margin-right: 10px;
+}
+.other-side .search-text {
+    float: right;
+    margin-top: 8px;
+    margin-right: 10px;
+}
+.other-side .cart-area {
+    margin-right: 15px;
+    margin-left: unset;
+    float: right;
+}
+.other-side .modal-menu {
+    float: left;
+    margin-right: 20px;
+    margin-left: unset;
+}
+.other-side .search-area .search-item .search-overlay.search-popup {
+    right: auto;
+    left: 0;
+}
+.other-side .search-area .search-item .search-overlay.search-popup .search-form .search-button {
+    left: 0;
+    right: auto;
+}
+.other-side .search-area .search-item .search-overlay.search-popup .search-form .search-input {
+    padding-left: unset;
+    padding-right: 10px;
+}
+.home-slider .owl-theme .owl-dots {
+    left: 8%;
+    right: auto;
+}
+.banner-img {
+    text-align: left;
+}
+.icon-shape-1 {
+    left: -20px;
+    right: auto;
+}
+.icon-shape-2 {
+    left: auto;
+    right: -20px;
+}
+
+.course-item {
+    margin-right: auto;
+    margin-left: unset;
+}
+.course-img {
+    margin-left: unset;
+    margin-right: 30px;
+}
+.course-dots {
+    right: auto;
+    left: -50px;
+}
+.icon-shape-3 {
+    left: auto;
+    right: 0;
+}
+.course-item-2 {
+    margin-right: unset;
+    margin-left: auto;
+}
+.course-img-2 {
+    margin-right: unset;
+    margin-left: 30px;
+}
+.course-dots-2 {
+    left: auto;
+    right: -50px;
+}
+.icon-shape-4 {
+    right: auto;
+    left: 0;
+}
+.product-item .product-cotent .product-text {
+    margin-left: 80px;
+    margin-right: unset;
+}
+.product-item .product-cotent .add-product {
+    right: auto;
+    left: 12px;
+}
+
+.news-card .news-img .sub-text {
+    left: 0px;
+    right: unset;
+}
+.news-card ul {
+    padding-right: 20px;
+    padding-left: unset;
+}
+.news-card ul li {
+    margin-left: 30px;
+    margin-right: unset;
+}
+.news-card ul li::before {
+    right: -15px;
+    left: auto;
+}
+
+.footer-content .newsleter-area .newsletter-form .subscribe-btn {
+    left: 0;
+    right: auto;
+    border-radius: 5px 0px 0px 5px;
+}
+.footer-list h3 {
+    padding-right: 15px;
+    padding-left: unset;
+}
+.footer-list h3::before {
+    left: auto;
+    right: 0;
+}
+.footer-list ul li a i {
+    margin-left: 5px;
+    margin-right: unset;
+}
+.footer-list ul li i {
+    margin-left: 5px;
+    margin-right: unset;
+}
+#toTop {
+    left: 20px;
+    right: auto;
+}
+.sidebar-modal .modal.right.fade.show .modal-dialog {
+    right: auto;
+    left: 0;
+    -webkit-animation: fadeInLeft 0.6s linear;
+    animation: fadeInLeft 0.6s linear;
+}
+.sidebar-modal .modal.right.fade .modal-dialog {
+    right: auto;
+    left: 0;
+}
+.sidebar-modal .modal-header .close {
+    float: left;
+}
+.sidebar-modal .modal.right .modal-body .sidebar-modal-widget .title::before {
+    right: 0;
+    left: auto;
+}
+.sidebar-modal .modal.right .modal-body .sidebar-modal-widget .contact-info li i {
+    right: 0;
+    left: auto;
+}
+.sidebar-modal .modal.right .modal-body .sidebar-modal-widget .contact-info li {
+    padding-right: 45px;
+    padding-left: unset;
+}
+.sidebar-modal .modal.right .modal-body .sidebar-modal-widget .social-list {
+    text-align: right;
+}
+.banner-content {
+    padding-top: 70px;
+    max-width: 530px;
+    margin-left: unset;
+    margin-right: auto;
+}
+.about-content {
+    margin-right: 70px;
+    margin-left: unset;
+}
+.icon-shape-5 {
+    top: 50px;
+    right: auto;
+    left: -20px;
+}
+.icon-shape-6 {
+    left: 265px;
+}
+.about-img2 {
+    float: left;
+}
+.visit-btn a {
+    margin-left: unset;
+    margin-right: 5px;
+}
+.testimonial-img img {
+    margin-right: 150px;
+    margin-left: unset;
+}
+.testimonial-img .shape-img {
+    left: 50px;
+    right: 0;
+}
+.testimonial-area .owl-theme .owl-nav {
+    right: 295px;
+    left: auto;
+}
+.testimonial-area .owl-theme .owl-nav .owl-prev {
+    left: auto;
+    right: -65px;
+}
+.inner-banner .inner-title ul li {
+    margin-left: 15px;
+    margin-right: unset;
+}
+.footer-bottom .bottom-text {
+    float: left;
+}
+.cart-area .cart-table table tbody tr td.product-subtotal .remove {
+    float: left;
+}
+.cart-area .cart-totals ul li span {
+    float: left;
+}
+.form-area {
+    margin-left: auto;
+    margin-right: -180px;
+}
+.courses-card-item .courses-card-img .courses-card-text {
+    float: left;
+    right: auto;
+    border-radius: 0 5px 0 0;
+}
+.courses-card-item ul {
+    padding-left: unset;
+    padding-right: 15px;
+}
+.courses-card-item ul li {
+    margin-right: unset;
+    margin-left: 30px;
+}
+.courses-card-item ul li::before {
+    left: auto;
+    right: -15px;
+}
+.faq-area .accordion .accordion-item .accordion-title i {
+    left: 20px;
+    right: auto;
+}
+.form-sing .form-group .form-check-label {
+    margin-right: 25px;
+}
+.form-section .form-group .form-control {
+    text-align: right;
+}
+.widget-search form .search-btn {
+    float: left;
+    margin-left: 10px;
+    margin-right: unset;
+}
+.widget-categories ul li a i {
+    float: left;
+}
+.pricing-card .price-list ul li i {
+    margin-right: unset;
+    margin-left: 10px;
+}
+.product-item .product-cotent .product-text a {
+    text-align: right;
+}
+.shop-desc .price .old-price {
+    margin-right: 10px;
+    margin-left: unset;
+}
+.shop-desc .shop-review .rating-count {
+    margin-right: 5px;
+    margin-left: unset;
+}
+.shop-desc .shop-add .shop-btn {
+    float: left;
+}
+.shop-desc .buy-checkbox-btn .item .cbx span {
+    margin-right: 10px;
+    margin-left: unset;
+}
+.shop-detls-tab .tab_content .tabs_item .shop-detls-tab-content .additional-information li span {
+    float: right;
+}
+.shop-detls-tab .tab_content .tabs_item .shop-detls-tab-content .shop-review-form .review-comments .review-item {
+    padding-left: 200px;
+    padding-right: unset;
+}
+.shop-detls-tab .tab_content .tabs_item .shop-detls-tab-content .shop-review-form .review-title .btn-right {
+    left: 0;
+    right: auto;
+}
+.shop-detls-tab .tab_content .tabs_item .shop-detls-tab-content .shop-review-form .review-comments .review-item .review-report-link {
+    left: 0;
+    right:auto;
+}
+.order-details .payment-box .payment-method p [type="radio"]:checked + label {
+    padding-right: 27px;
+    padding-left: unset;
+}
+.order-details .payment-box .payment-method p [type="radio"]:checked + label::before {
+    right: 0;
+    left: auto;
+}
+.order-details .payment-box .payment-method p [type="radio"]:checked + label::after {
+    right: 3px;
+    left: auto;
+}
+.order-details .payment-box .payment-method p [type="radio"]:not(:checked) + label {
+    padding-right: 27px;
+    padding-left: unset;
+}
+.order-details .payment-box .payment-method p [type="radio"]:not(:checked) + label::before {
+    right: 0;
+    left: auto;
+}
+.order-details .payment-box .payment-method p [type="radio"]:not(:checked) + label::after {
+    right: 3px;
+    left: auto;
+}
+.billing-details .form-check .form-check-label {
+    margin-right: 5px;
+    margin-left: unset;
+}
+.billing-details .form-check .form-check-input {
+    float: right;
+}
+.cart-wraps-area .cart-calc form .nice-select .list .option {
+    text-align: right;
+}
+.cart-area .cart-calc .shops-form .form-group .nice-select {
+    text-align: right !important;
+    padding-left: 40px;
+    padding-right: 18px;
+}
+.cart-area .cart-calc .shops-form .form-group .nice-select:after {
+    left: 15px;
+    right: auto;
+}
+.billing-details .form-group .nice-select:after {
+    left: 15px;
+    right: auto;
+}
+.billing-details .form-group .nice-select {
+    text-align: right !important;
+    padding-left: 40px;
+    padding-right: 18px;
+}
+.billing-details .form-group .nice-select .list .option {
+    text-align: right;
+}
+.news-post span i {
+    margin-left: 5px;
+    margin-right: 0;
+}
+.text-right {
+    text-align: left !important;
+}
+.list-unstyled {
+    padding-right: 0;
+    text-align: right !important;
+}
+.form-section .with-errors {
+    float: right;
+}
+.footer-content .newsleter-area .newsletter-form .form-control {
+    text-align: right;
+}
+
+.switch-box {
+    left: 120px !important;
+    right: auto !important;
+}
+  
+.buy-now-btn {
+    left: 20px;
+    right: auto;
+}
+
+/*
+Responsive CSS
+============================*/
+@media only screen and (max-width: 767px) {
+    .mean-container a.meanmenu-reveal {
+        left: 15px !important;
+        right: auto !important;
+    }
+    .mean-container .mean-nav ul li a.mean-expand {
+        width: 90%;
+    }
+    .mean-container .mean-nav ul li a.mean-expand {
+        text-align: left;
+        left: 0;
+        right: auto;
+    }
+    .mean-container .mean-nav ul li a {
+        text-align: right;
+    }
+    .mobile-nav .logo {
+        right: 15px !important;
+        left: auto !important;
+    }
+    .banner-content {
+        padding-top: 0;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .home-slider .owl-theme .owl-dots {
+        left: 0;
+        right: 0;
+    }
+    .course-img {
+        margin-left: unset;
+        margin-right: 0;
+    }
+    .course-img-2 {
+        margin-right: unset;
+        margin-left: 0;
+    }
+    .ml-50 {
+        margin-right: 0;
+        margin-left: unset;
+    }
+    .footer-bottom .bottom-text {
+        float: none;
+    }
+    .about-content {
+        margin-right: 0;
+        margin-left: unset;
+    }
+    .testimonial-img img {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .testimonial-img .shape-img {
+        left: 0;
+        right: 0;
+    }
+    .testimonial-area .owl-theme .owl-nav {
+        right: 0;
+        left: 0;
+    }
+    .testimonial-area .owl-theme .owl-nav .owl-prev {
+        right: 30%;
+        left: auto ;
+    }
+    .testimonial-area .owl-theme .owl-nav .owl-next {
+        left: 30%;
+        right:auto ;
+    }
+    .form-area {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .faq-area .accordion .accordion-item .accordion-title i {
+        left: 7px;
+        right: auto;
+    }
+    .shop-detls-tab .tab_content .tabs_item .shop-detls-tab-content .shop-review-form .review-comments .review-item {
+        padding-left: 0;
+        padding-right: unset;
+    }
+}
+
+@media only screen and (min-width : 576px) and (max-width : 767px) {
+    .testimonial-area .owl-theme .owl-nav .owl-prev {
+        right: 38%;
+        left: auto ;
+    }
+    .testimonial-area .owl-theme .owl-nav .owl-next {
+        left: 38%;
+        right:auto ;
+    }
+
+}
+
+@media only screen and (min-width : 768px) and (max-width : 991px) {
+    .mean-container a.meanmenu-reveal {
+        left: 15px !important;
+        right: auto !important;
+    }
+    .mean-container .mean-nav ul li a.mean-expand {
+        width: 90%;
+    }
+    .mean-container .mean-nav ul li a.mean-expand {
+        text-align: left;
+        left: 0;
+        right: auto;
+    }
+    .mean-container .mean-nav ul li a {
+        text-align: right;
+    }
+    .mobile-nav .logo {
+        right: 15px !important;
+        left: auto !important;
+    }
+    .banner-content {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .home-slider .owl-theme .owl-dots {
+        left: 2%;
+        right: auto;
+    }
+    .about-text .scetion-title p {
+        float: right;
+        margin-bottom: 20px;
+    }
+    .course-img {
+        margin-left: unset;
+        margin-right: 0;
+    }
+    .course-img-2 {
+        margin-right: unset;
+        margin-left: 0;
+    }
+    .about-img2 {
+        float: right;
+    }
+    .ml-50 {
+        margin-right: 0;
+        margin-left: unset;
+    }
+    .footer-bottom .bottom-text {
+        float: none;
+    }
+    .offset-md-3 {
+        margin-left: unset;
+        margin-right: 25%;
+    }
+    .about-content {
+        margin-right: 0;
+        margin-left: unset;
+    }
+    .testimonial-img img {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .testimonial-img .shape-img {
+        left: 0;
+        right: 0;
+    }
+    .testimonial-area .owl-theme .owl-nav {
+        right: 0;
+        left: 0;
+    }
+    .testimonial-area .owl-theme .owl-nav .owl-prev {
+        right: 40%;
+        left: auto ;
+    }
+    .testimonial-area .owl-theme .owl-nav .owl-next {
+        left: 40%;
+        right:auto ;
+    }
+    .form-area {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+
+}
+
+@media only screen and (min-width : 992px) and (max-width : 1199px) {
+
+    .other-side .search-area {
+        margin-left: 5px;
+        margin-right: unset;
+    }
+    .icon-shape-3 {
+        display: none;
+    }
+    .icon-shape-6 {
+        left: 220px;
+    }
+    .home-slider .owl-theme .owl-dots {
+        left: 5%;
+    }
+    .testimonial-img img {
+        margin-right: unset;
+        margin-left: unset;
+    }
+    .testimonial-area .owl-theme .owl-nav {
+        right: 135px;
+        left: auto;
+    }
+
+}
+
+@media only screen and (min-width : 1400px) {
+    .banner-content {
+        max-width: 630px;
+    }
+    .about-text .section-title p {
+        margin-right: 0;
+        margin-left: unset;
+    }
+}
+
+@media only screen and (min-width : 1800px) {
+    .home-slider .owl-theme .owl-dots {
+        left: 16%;
+    }
+    .course-img {
+        margin-left: unset;
+        margin-right: 70px;
+    }
+    .course-dots {
+        right: auto;
+        left: 6%;
+    }
+    .course-img-2 {
+        margin-left: 70px;
+        margin-right: unset;
+        float: left;
+    }
+    .course-dots-2 {
+        bottom: 50px;
+        left: auto;
+        right: 5%;
+    }
+
+}
